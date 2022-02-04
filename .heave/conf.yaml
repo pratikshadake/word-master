@@ -24,8 +24,8 @@ ports:
     - 3000
 run:
     replicas: 1
-    cpu: 200m
-    memory: 400Mi
+    cpu: 600m
+    memory: 1000Mi
 extraApplications: []
 resources: []
 canBePublic: true
