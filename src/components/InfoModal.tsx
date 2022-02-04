@@ -50,17 +50,6 @@ export const InfoModal = ({ isOpen, handleClose, darkMode, styles }: Props) => (
           <span className="mx-2">=</span>
           <span>Wrong letter</span>
         </div>
-        <div className="flex justify-center sm:text-base text-sm">
-          <span>This project is open source on</span>
-          <a
-            className="ml-[6px] rounded-full h-5 w-5 sm:h-6 sm:w-6"
-            href="https://github.com/octokatherine/word-master"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <Github />
-          </a>
-        </div>
       </div>
     </div>
   </Modal>
