@@ -1,0 +1,12 @@
+{
+	"environments": [
+		{
+			"name": "word-master",
+			"key": "pratiksha-word-master-word-master",
+			"is_public": false,
+			"conf": ""
+		}
+	],
+	"active_environment": "word-master",
+	"last_change_at": "2022-02-04T15:29:44.280784+05:30"
+}

@@ -1,5 +1,4 @@
 import Modal from 'react-modal'
-import { ReactComponent as Github } from '../data/Github.svg'
 import { ReactComponent as Close } from '../data/Close.svg'
 
 Modal.setAppElement('#root')
